@@ -1,4 +1,4 @@
-# Exploratory Data Analysis About Video Game Sales
+# Exploratory Data Analysis on Video Game Sales
 
 The purpose of the project is to identify the most successful console platforms, sales by years, performances of developer/publisher studios, correlation between genre - sales, and critic scores - sales to give an insight into developers, publishers, and stakeholders about the video game industry.
 
